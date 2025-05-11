@@ -8,7 +8,7 @@
 <body><center>
     <form action="" method="POST">
         <div class="dd">
-            <h2>LOGIN HERE Plea</h2>
+            <h2>LOGIN HERE Ple</h2>
             <input type="text" name="fname" placeholder="Enter your first name" required><br><br>
             <input type="text" name="lname" placeholder="Enter your last name" required><br><br>
             <input type="submit" name="save" value="send" 
